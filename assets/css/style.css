@@ -7,11 +7,19 @@
     padding-right: 0;
 }
 
-
 .active-nav-text {
     color: #d6b14b;
 }
 
-#logo-color {
+.logo-color {
     color: #edcf7b;
+}
+
+
+/* Footer Styling */
+.icon-style {
+    color: #edcf7b;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
