@@ -66,8 +66,20 @@ html > body {
     margin-bottom: 20px;
 }
 
+.heading-three-seperator {
+    color: #752702;
+    margin-bottom: 40px;
+}
+
 .main-content-section {
     color: #f0e6cd;
+}
+
+.hr-seperater-main {
+    border: solid rgba(92, 91, 87, 0.3);
+    max-width: 50%;
+    margin-top: 55px;
+    
 }
 
 /* Footer Styling */
