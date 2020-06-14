@@ -27,6 +27,18 @@ html > body {
 
 /* Main Content */
 
+.progress {
+    background-color:#272129 ;
+    border: 1px solid #f5ff8e;
+    
+}
+
+.progress-bar {
+    background-color: #f5ff8e;
+    opacity: 90%;
+    color: #272129;
+}
+
 .profile-photo {
     max-width: 210px;
     border-radius: 50%;
@@ -73,8 +85,27 @@ html > body {
     align-self: center;
 }
 
+.card-body-skills {
+    min-width: 75%;
+    max-width: 75%;
+    align-self: center;
+    padding: none;
+    opacity: 80%;
+}
+
 .heading-three-seperator {
     color: #752702;
+    margin-bottom: 40px;
+}
+
+.heading-four-seperator {
+    color: #eebd52;
+    margin-bottom: 40px;
+}
+
+.skills-card-padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-bottom: 40px;
 }
 
