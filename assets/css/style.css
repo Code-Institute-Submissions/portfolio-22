@@ -89,6 +89,18 @@ html > body {
     
 }
 
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    background-color: #212529;
+    border: none;
+}
+
+.list-item-index-styling {
+    margin-top: 0.0rem;
+}
+
 /* Footer Styling */
 .icon-style {
     color: #edcf7b;
