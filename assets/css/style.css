@@ -119,6 +119,11 @@ html > body {
     margin-top: 55px;
     
 }
+.hr-seperater-main-exp {
+    border: solid #eebd52;
+    max-width: 50%;
+    margin-top: 55px;
+}
 
 .list-group-item {
     position: relative;
@@ -130,6 +135,10 @@ html > body {
 
 .list-item-index-styling {
     margin-top: 0.0rem;
+}
+
+h6 {
+    font-family: 'Dosis', sans-serif;
 }
 
 /* Footer Styling */
