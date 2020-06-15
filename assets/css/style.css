@@ -93,6 +93,7 @@ html > body {
     opacity: 80%;
 }
 
+
 .heading-three-seperator {
     color: #752702;
     margin-bottom: 40px;
@@ -145,6 +146,13 @@ h6 {
 .icon-style {
     color: #edcf7b;
     font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.icon-style-large {
+    color: #edcf7b;
+    font-size: 45px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
