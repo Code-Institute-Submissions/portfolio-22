@@ -7,6 +7,7 @@
     <title>Portfolio - Francois Wilken</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
 </head>
 <body>
@@ -40,56 +41,65 @@
         </div>
     </header>
     <section>
-        <div class="container-fluid top-div-margin text-center profile-margin">
-            <img src="https://raw.githubusercontent.com/fransai/portfolio/master/assets/img/profilephoto.jpg" class="img-fluid profile-photo" alt="profile-photo">
+        <div data-aos="fade-up">
+            <div class="container-fluid top-div-margin text-center profile-margin">
+                <img src="https://raw.githubusercontent.com/fransai/portfolio/master/assets/img/profilephoto.jpg" class="img-fluid profile-photo" alt="profile-photo">
+            </div>
         </div>
-        <div class="container-fluid">
-            <hr class="hr-seperater-main">
+        <div data-aos="fade-up">
+            <div class="container-fluid">
+                <hr class="hr-seperater-main">
+            </div>
         </div>
-        <div class="container-fluid">
-            <h3 class="heading-three-seperator text-center">Development Skills</h3>
+        <div data-aos="fade-up">
+            <div class="container-fluid">
+                <h3 class="heading-three-seperator text-center">Development Skills</h3>
+            </div>
         </div>
         <div class="container text-center card-body-skills bottom-div-margin">
             <div class="row">
                 <div class="col-sm">
-                    <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
-                        <p class="main-content-section"> <h4 class="heading-four-seperator"> Front End </h4> </p>
-                        <div class="main-content-section">
-                            <div class="container-fluid main-content-section">
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">
-                                        HTML5 - 85%
-                                        <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
-                                        </div>
-                                    </li>
-                                        <hr class="list-item-index-styling">
-                                    <li class="list-group-item">
-                                        CSS - 70%
-                                        <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div>
-                                        </div>
-                                    </li>
-                                        <hr class="list-item-index-styling">
-                                    <li class="list-group-item">
-                                        Responsive Design - 75%
-                                        <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
-                                        </div>
-                                    </li>
-                                        <hr class="list-item-index-styling">
-                                    <li class="list-group-item">
-                                        Accessibility Design - 95%
-                                        <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%"></div>
-                                        </div>
-                                    </li>
-                                </ul>
+                    <div data-aos="fade-right">
+                        <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
+                            <p class="main-content-section"> <h4 class="heading-four-seperator"> Front End </h4> </p>
+                            <div class="main-content-section">
+                                <div class="container-fluid main-content-section">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item">
+                                            HTML5 - 85%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            CSS - 70%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Responsive Design - 75%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Accessibility Design - 95%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%"></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm">
+                <div data-aos="fade-down">
                     <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
                         <p class="main-content-section"> <h4 class="heading-four-seperator"> Back End </h4> </p>
                         <div class="main-content-section">
@@ -127,37 +137,132 @@
                         </div>
                     </div>
                 </div>
+                </div>
                 <div class="col-sm">
+                    <div data-aos="fade-left">
+                        <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
+                            <p class="main-content-section"> <h4 class="heading-four-seperator"> Frameworks </h4> </p>
+                            <div class="main-content-section">
+                                <div class="container-fluid main-content-section">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item">
+                                            Bootstrap - 80%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Django - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            React - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Node.js - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div data-aos="fade-up">
+            <div class="container-fluid">
+                <hr class="hr-seperater-main">
+            </div>
+        </div>
+        <div data-aos="fade-up">
+            <div class="container-fluid">
+                <h3 class="heading-three-seperator text-center">IT Skills</h3>
+            </div>
+        </div>
+            <div class="row">
+                <div class="col-sm">
+                    <div data-aos="fade-right">
+                        <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
+                            <p class="main-content-section"> <h4 class="heading-four-seperator"> Infrastructure </h4> </p>
+                            <div class="main-content-section">
+                                <div class="container-fluid main-content-section">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item">
+                                            Project Management - 85%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Program Management - 70%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Process Improvement - 75%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Accessibility Design - 95%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%"></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                <div data-aos="fade-down">
                     <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
-                        <p class="main-content-section"> <h4 class="heading-four-seperator"> Frameworks </h4> </p>
+                        <p class="main-content-section"> <h4 class="heading-four-seperator"> Business Accumen </h4> </p>
                         <div class="main-content-section">
                             <div class="container-fluid main-content-section">
                                 <ul class="list-group list-group-flush">
                                     <li class="list-group-item">
-                                        Bootstrap - 80%
+                                        Python - 85%
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div>
                                         </div>
                                     </li>
                                         <hr class="list-item-index-styling">
                                     <li class="list-group-item">
-                                        Django - Coming Soon!
+                                        Bash - 65%
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%"></div>
                                         </div>
                                     </li>
                                         <hr class="list-item-index-styling">
                                     <li class="list-group-item">
-                                        React - Coming Soon!
+                                        Powershell - 55%
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%"></div>
                                         </div>
                                     </li>
                                         <hr class="list-item-index-styling">
                                     <li class="list-group-item">
-                                        Node.js - Coming Soon!
+                                        SQL - 60%
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
                                         </div>
                                     </li>
                                 </ul>
@@ -165,6 +270,48 @@
                         </div>
                     </div>
                 </div>
+                </div>
+                <div class="col-sm">
+                    <div data-aos="fade-left">
+                        <div class="bg-dark main-content-section-structure text-center rounded skills-card-padding">
+                            <p class="main-content-section"> <h4 class="heading-four-seperator"> Miscellaneous </h4> </p>
+                            <div class="main-content-section">
+                                <div class="container-fluid main-content-section">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item">
+                                            Bootstrap - 80%
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Django - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            React - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                            <hr class="list-item-index-styling">
+                                        <li class="list-group-item">
+                                            Node.js - Coming Soon!
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%"></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -196,5 +343,7 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/904f563359.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>AOS.init();</script>
 </body>
 </html>
