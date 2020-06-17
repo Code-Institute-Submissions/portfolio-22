@@ -59,22 +59,48 @@ Wireframes for the Project are hosted below. These outline the basic intended st
 
 ## Features
 
+### Existing Features
 - Navigation bar
  
 The navigation bar is intended to be simple and clear, which brings you to the different pages on the website. On Mobile and Tablet view, the nav bar items should be displayed when the user taps or clicks on a hamburger icon in the top right.
 
+- Footer
 
+The footer bar is designed to allow the user to visit Social Media, Github Respositories and other platforms the developer uses.
 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Welcome / Landing Page
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+This will be the Homepage of the website. This page will summarise and detail the developer’s personal bio. A short summary of skills, achievements, technology stacks they use and a brief description of their core competencies (Professionalism, communication skills etc)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Skills (Current and Future)
+
+The skills page will summarise the technical and core competency skills of the developer at a detailed level. It will also use some graphical representation which will make it easy for a potential employer or customer to gauge the skills of the developer (Bar Chart)
+
+- Experience
+
+The experience page will provide a timeline of the developers work history, outlining key achievements with some data to support the achievements (if available) and also any applicable customer / employer testimonials (if available)
+
+- Contact Details
+
+This will be a page where any potential clients can make contact across multiple platforms (Email, LinkedIn, Telephone etc.) with the developer to scope a project, enquire about services or reach out with any general queries.
+
+- Tech Blog
+
+The last page of the website is to be used as a “Tech Blog” where the developer will post an article about trending technology news / developments in the tech industry on a bi-monthly basis. This demonstrates that the developer stays up to date with current technologies and has a keen interest to practice continuous learning. It also adds a “personal dynamic” to the website based on the developers interests.
 
 ### Features Left to Implement
-- Another feature idea
+
+- Light / Dark mode switch
+
+Ability to switch between Light and Dark mode on the website.
+
+- Mailto: Modal
+
+A model which allows the user to send an email from the website to the developer.
+
+- Blog Comments
+
+A Section under the blog articles that allows visitors to comment on the content written
 
 ## Technologies Used
 
