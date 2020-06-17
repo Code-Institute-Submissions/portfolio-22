@@ -31,13 +31,40 @@ The below user stories encapsulate the over all goals of the project and clearly
 - As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
 - As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
 
+Wireframes for the Project are hosted below. These outline the basic intended structure of the website, although the structure did change slighltly throughout the development process as the web page did not render in the browser as well with the wireframes specific structure.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- https://fransai.github.io/portfolio/wireframes/Desktop-Blog-1.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-1.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-2.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-1.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-2.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Home-1.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Home-2.png
+- https://fransai.github.io/portfolio/wireframes/Desktop-Skills-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Blog-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-2.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-2.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-3.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Home-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Home-2.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-1.png
+- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-2.png
+- https://fransai.github.io/portfolio/wireframes/Tablet-Blog-1.png
+- https://fransai.github.io/portfolio/wireframes/Tablet-Contact-1.png
+- https://fransai.github.io/portfolio/wireframes/Tablet-Experience-1.png
+- https://fransai.github.io/portfolio/wireframes/Tablet-Home-1.png
+- https://fransai.github.io/portfolio/wireframes/Tablet-Skills-1.png
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+- Navigation bar
  
+The navigation bar is intended to be simple and clear, which brings you to the different pages on the website. On Mobile and Tablet view, the nav bar items should be displayed when the user taps or clicks on a hamburger icon in the top right.
+
+
+
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
