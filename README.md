@@ -104,10 +104,37 @@ A Section under the blog articles that allows visitors to comment on the content
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+The technologies used across the development of this project are outlined below.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - The project uses **HTML** to create the core content of the website.
+
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    - The project uses **CSS** to create the custom styling of the website.
+
+- [BootStrap](https://getbootstrap.com/)
+    - The project uses **BootStrap v4.5** to use pre-made CSS classes and grid style structures for the overall layout and components of the website.
+    
+- [Font Awesome](https://fontawesome.com/)
+    - The project uses **FontAwesome** to create icons for multiple social media links and page icons.
+    
+- [Google Fonts](https://fonts.google.com/)
+    - The project uses **Google Fonts** to import a library of fonts to be used for all text based elements on the website.
+    
+- [Animate on Scroll](https://michalsnik.github.io/aos/)
+    - The project uses **AOS** to create the core animation of all of the components on the website.
+
+- [Gitpod](https://www.gitpod.io/)
+    - The project uses **Gitpod** for all development efforts and beta stage deployments and testing.
+    
+- [Web.dev](https://web.dev/measure/)
+    - The project uses **Web.dev** to test the accessability rating of the website.
+    
+- [W3C HTML](https://validator.w3.org/)
+    - The project uses **W3C HTML Validator** to check for any HTML errors in the code, symantics and best practice.
+    
+- [W3C CSS](https://jigsaw.w3.org/css-validator/)
+    - The project uses **W3C CSS Validator** to check for any CSS errors in the code, symantics and best practice.
 
 
 ## Testing
