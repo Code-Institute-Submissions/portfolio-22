@@ -142,6 +142,11 @@ h6 {
     font-family: 'Dosis', sans-serif;
 }
 
+.article-padding {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 /* Footer Styling */
 .icon-style {
     color: #edcf7b;
