@@ -1,4 +1,4 @@
-# Your Project's Name
+# Francois Wilken - Portfolio
 
 The high level purpose of this project is to conceptualise, scope, design and build an attractive and dynamic portfolio website which outlines the capabilities of a Full Stack Software Developer (Francois Wilken). 
 It should visually attract an independent business owner or Small-Medium Enterprise (SME) in either employing the developer as a temporary contractor, full time developer or for the developer to use the portfolio to showcase their previous work when bidding on Freelancing work. 
