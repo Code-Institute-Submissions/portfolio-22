@@ -139,37 +139,51 @@ The technologies used across the development of this project are outlined below.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Responsiveness
+For testing purposes, I tested the responsiveness and content integrity of each one of the pages on multiple devices, both in portrait and landscope orientation:
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+- Moto G4
+- Galaxy S5
+- Pixel 2
+- Pixel 2 XL
+- iPhone 5 / SE
+- iPhone 6/7/8
+- iPhone 6/7/8 (Plus)
+- iPhone X
+- iPad
+- iPad Pro
+- Resizable browser window.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+All of pages in this project responded correctly to the devices, screen sizes and orientations tested above.
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+### Feature Functionality
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+For each one of the user stories and features of the webpage, I completed a number of tests outlined below to ensure there were no bugs that could cause a negative user impact.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- Ensure all navigation links in the Nav bar works across all pages.
+- Ensure that the "logo" returns you to the home page from any page.
+- Ensure that all html pages are accessible from anywhere on the website, either from the nav bar or the drow down menu.
+- Ensure that all content is easily viewable and no obstructions are caused anywhere.
+- Ensure that all external links function from all html pages.
+- Ensure that all external links open in a new tab.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+### Bugs
+
+I encountered a strange bug when I originally introduced the AOS framework into the project. Specifically, when I introduced animations in the same section, but from different directions. This caused the entire body of the page to be movable within the browser. Meaning that you could drag away the content, background and structure to see underlying whitespace behind the website content. I remediated this by keeping animation directions the same.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This project was deployed to Github pages using Git. It was deployed directly the Master branch. All subsequent changes can be seen within a matter of minutes post commiting directly to the master branch.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+To deploy this project locally, follow the below steps:
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+1) Using Git, clone the repository. "git clone https://github.com/fransai/portfolio.git"
+2) Once the repository is cloned, open the index.html file in any browser.
 
 
 ## Credits
+
+TBC
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
