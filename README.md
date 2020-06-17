@@ -20,10 +20,17 @@ As a high level overview, the website will demonstrate:
 The UX process for this project was to establish clarity from the start on the intended audience and ensure that the absolute core requirements are part of the scope. Essentially, the
 design process was to create a simple, clear and easily viewable website which provides all necessary information and features, without bloating the website with unnecessary content.
 
-The below
+The below user stories encapsulate the over all goals of the project and clearly outline the objectives and the intentions of the website:
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+- As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
+- As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
+- As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
+- As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
+- As a recruiter I want to view some previous customer testimonials so that I can determine if this is a good developer to work with.
+- As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
+- As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
+- As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
+
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
