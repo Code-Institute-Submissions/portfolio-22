@@ -29,12 +29,19 @@ design process was to create a simple, clear and easily viewable website which p
 The below user stories encapsulate the over all goals of the project and clearly outline the objectives and the intentions of the website:
 
 - As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
+![index.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/index-html.PNG "index.html")
 - As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
+![index.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/index-html.PNG "index.html")
 - As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
+![skills.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/skills-html.PNG "skills.html")
 - As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
+![experience.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/experience-html.PNG "experience.html")
 - As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
+![contact.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/contact-html.PNG "contact.html")
 - As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
+![contact.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/contact-html.PNG "contact.html")
 - As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
+![blog.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/user-story-screenshots/blog-html.PNG "blog.html")
 
 Wireframes for the Project are hosted below. These outline the basic intended structure of the website, although the structure did change slighltly throughout the development process as the web page did not render in the browser as well with the wireframes specific structure.
 
