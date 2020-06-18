@@ -1,5 +1,11 @@
 # Francois Wilken - Portfolio
 
+## Live Site
+
+A live view of the project can be seen hereL: https://fransai.github.io/portfolio/index.html
+
+## Overview
+
 The high level purpose of this project is to conceptualise, scope, design and build an attractive and dynamic portfolio website which outlines the capabilities of a Full Stack Software Developer (Francois Wilken). 
 It should visually attract an independent business owner or Small-Medium Enterprise (SME) in either employing the developer as a temporary contractor, full time developer or for the developer to use the portfolio to showcase their previous work when bidding on Freelancing work. 
 The website needs to demonstrate the developers ability to work with the outlined programming languages, frameworks, methodologies and work ethics. 
@@ -26,36 +32,15 @@ The below user stories encapsulate the over all goals of the project and clearly
 - As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
 - As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
 - As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
-- As a recruiter I want to view some previous customer testimonials so that I can determine if this is a good developer to work with.
 - As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
 - As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
 - As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
 
 Wireframes for the Project are hosted below. These outline the basic intended structure of the website, although the structure did change slighltly throughout the development process as the web page did not render in the browser as well with the wireframes specific structure.
 
-- https://fransai.github.io/portfolio/wireframes/Desktop-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Home-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Skills-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-3.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Home-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-2.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Skills-1.png
+Balsamiq was used for the development of the Wireframes: https://balsamiq.com/
+
+https://github.com/fransai/portfolio/tree/master/wireframes
 
 ## Features
 
@@ -139,6 +124,34 @@ The technologies used across the development of this project are outlined below.
 
 ## Testing
 
+### Testing against user stories.
+
+- As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
+1. Navigate to https://fransai.github.io/portfolio/
+2. Ensure you can access the home page and that a brief overview is viewable on mobile, tablet and desktop views across all major browsers.
+
+- As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
+1. Navigate to https://fransai.github.io/portfolio/
+2. Click on "Skills" - ensure you end up on the skills.html page and can see an overview of the developer skills
+3. Click on "Experience" - ensure you end up on experience.html page and can see an overview of the developers experience.
+4. Click on "Contact" - ensure you end up on contact.html and can use all of the external links to make contact with the developer.
+5. Click on "Blog" - ensure you end up on blog.html and can see all of the tech articles the developer has posted in mobile, tablet and desktop view.
+
+- As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
+1. Click on "Skills" - ensure you end up on the skills.html page and can see an overview of the developer skills. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
+- As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
+1. Click on "Experience" - ensure you end up on experience.html page and can see an overview of the developers experience. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
+- As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
+1. Click on "Contact" - ensure you end up on contact.html and can use all of the external links to make contact with the developer. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
+- As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
+1. Click on the links within the footer of the webpage to ensure they all open on the relevant platforms in a new tab in the browser.
+
+- As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
+1. Click on "Blog" - ensure you end up on blog.html and can see all of the tech articles the developer has posted in mobile, tablet and desktop view. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
 ### HTML and CSS Validator from W3C
 
 All HTML and CSS code passed validator checks without any issues. There is a warning however on the CSS file for "an unknown vendor extensions" for the below elements in the CSS file. This is expected behaviour and can be ignored as a "Warning" rather than a failure from the validator.
@@ -146,6 +159,26 @@ All HTML and CSS code passed validator checks without any issues. There is a war
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
+
+#### Validator Results
+
+- index.html
+![index.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/index-html.PNG "index.html")
+
+- skills.html
+![skills.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/skills-html.PNG "skills.html")
+
+- experience.html
+![experience.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/experience-html.PNG "experience.html")
+
+- contact.html
+![contact.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/contact-html.PNG "contact.html")
+
+- blog.html
+![blog.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/blog-html.PNG "blog.html")
+
+- style.css
+![style.css](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/css.PNG "style.css")
 
 ### Responsiveness
 For testing purposes, I tested the responsiveness and content integrity of each one of the pages on multiple devices, both in portrait and landscope orientation:
@@ -192,21 +225,44 @@ I encountered a strange bug when I originally introduced the AOS framework into 
 
 This project was deployed to Github pages using Git. It was deployed directly the Master branch. All subsequent changes can be seen within a matter of minutes post commiting directly to the master branch.
 
-To deploy this project locally, follow the below steps:
+### Steps to deploy to Github:
+
+- 1. Navigate to the repository page: https://github.com/fransai/portfolio
+- 2. Click on "Settings" in the navigation bar, next to "Insights"
+- 3. In the "Github Pages" section, click on the source drop-down menu and select "master branch"
+- 4. Wait for approximately 15 minutes for the webpage to be deployed.
+- 5. Navigate to https://fransai.github.io/portfolio/ to ensure the webpage has deployed.
+
+### To deploy this project locally, follow the below steps:
+
+#### Prerequisites
+
+Ensure Git is installed on your computer
+
+- Windows: https://git-scm.com/download/win
+- MacOs: https://git-scm.com/download/mac
+- Linux: https://git-scm.com/download/linux
+
+### Local Deployment
 
 1) Using Git, clone the repository. "git clone https://github.com/fransai/portfolio.git"
-2) Once the repository is cloned, open the index.html file in any browser.
+2) Once the repository is cloned, navigate to the local repository on your computer.
+3) Open index.html with your preferred browser from the directory on your computer.
 
 
 ## Credits
 
-TBC
-
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-### Media
-- The photos used in this site were obtained from ...
+- BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content. Responsiveness of the project was achieved with BootStrap v4.5 classes and grid layout structures. https://getbootstrap.com/docs/4.5/getting-started/introduction/
+  
+- FontAwesome was used for all of the icons on the project and are outlined within the HTML pages source code to attribute credit to FontAwesome. https://fontawesome.com/
+
+- Google Fonts was used for the fonts across the entire project (Dosis Font). Google fonts is also credited in the source code of all of the HTML pages. https://fonts.google.com/
+
+- AOS was used for all of the elemental animations on the project. AOS is an open source JS and CSS library for styling the movements of HTML elements on a webpage. https://michalsnik.github.io/aos/
+
+- Pixabay was used for the background image of the entire wesite: https://pixabay.com/
 
 ### Acknowledgements
-- I received inspiration for this project from X
+- I received inspiration for this project from Stefan Mischook - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some long time professional goals of mine and his itterated in one of his videos the importance of an online portfolio.
