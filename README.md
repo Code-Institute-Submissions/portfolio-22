@@ -225,14 +225,15 @@ Ensure Git is installed on your computer
 
 ### Content
 
-- BootStrap
-  BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content
+- BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content. Responsiveness of the project was achieved with BootStrap v4.5 classes and grid layout structures. https://getbootstrap.com/docs/4.5/getting-started/introduction/
   
-- FontAwesome
+- FontAwesome was used for all of the icons on the project and are outlined within the HTML pages source code to attribute credit to FontAwesome. https://fontawesome.com/
 
-- Google Fonts
+- Google Fonts was used for the fonts across the entire project (Dosis Font). Google fonts is also credited in the source code of all of the HTML pages. https://fonts.google.com/
 
-- AOS
+- AOS was used for all of the elemental animations on the project. AOS is an open source JS and CSS library for styling the movements of HTML elements on a webpage. https://michalsnik.github.io/aos/
+
+- Pixabay was used for the background image of the entire wesite: https://pixabay.com/
 
 ### Media
 - The photos used in this site were obtained from ...
