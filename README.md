@@ -246,9 +246,9 @@ This project was deployed to Github pages using Git. It was deployed directly th
 
 Ensure Git is installed on your computer
 
-- Windows: https://git-scm.com/download/win
-- MacOs: https://git-scm.com/download/mac
-- Linux: https://git-scm.com/download/linux
+- [Windows - Git](https://git-scm.com/download/win)
+- [Mac - Git](https://git-scm.com/download/mac)
+- [Linux - Git](https://git-scm.com/download/linux)
 
 ### Local Deployment
 
