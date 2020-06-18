@@ -39,6 +39,8 @@ The below user stories encapsulate the over all goals of the project and clearly
 
 Wireframes for the Project are hosted below. These outline the basic intended structure of the website, although the structure did change slighltly throughout the development process as the web page did not render in the browser as well with the wireframes specific structure.
 
+Balsamiq was used for the development of the Wireframes: https://balsamiq.com/
+
 https://github.com/fransai/portfolio/tree/master/wireframes
 
 ## Features
