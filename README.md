@@ -274,6 +274,6 @@ Ensure Git is installed on your computer
 - Pixabay was used for the background image of the entire wesite: [Pixabay](https://pixabay.com/)
 
 ### Acknowledgements
-- I received inspiration for this project from Stefan Mischook - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some long time professional goals of mine and his itterated in one of his videos the importance of an online portfolio.
+- I received inspiration for this project from [Stefan Mischook](https://www.youtube.com/user/killerphp) - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some time. Stefan also iterated the importance of an online portfolio in one of his vlogs.
 
-- I also received enormous inspiration in terms of development practices, consistency and continous improvement from my mentor at CodeInstitute - Precious Ijege. Precious supported me dilligently throughout the entire project and helped me course correct when it was needed.
+- I also received enormous inspiration in terms of development practices, consistency and continous improvement from my mentor at CodeInstitute - [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/). Precious supported me dilligently throughout the entire project and helped me course correct when it was needed.
