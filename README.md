@@ -147,6 +147,26 @@ All HTML and CSS code passed validator checks without any issues. There is a war
 -moz-background-size: cover;
 -o-background-size: cover;
 
+#### Validator Results
+
+- index.html
+![index.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/index-html.PNG "index.html")
+
+- skills.html
+![skills.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/skills-html.PNG "skills.html")
+
+- experience.html
+![experience.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/experience-html.PNG "experience.html")
+
+- contact.html
+![contact.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/contact-html.PNG "contact.html")
+
+- blog.html
+![blog.html](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/blog-html.PNG "blog.html")
+
+- style.css
+![style.css](https://raw.githubusercontent.com/fransai/portfolio/master/screenshots/w3c_validation/css.PNG "style.css")
+
 ### Responsiveness
 For testing purposes, I tested the responsiveness and content integrity of each one of the pages on multiple devices, both in portrait and landscope orientation:
 
