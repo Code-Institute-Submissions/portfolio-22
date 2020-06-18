@@ -32,7 +32,6 @@ The below user stories encapsulate the over all goals of the project and clearly
 - As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
 - As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
 - As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
-- As a recruiter I want to view some previous customer testimonials so that I can determine if this is a good developer to work with.
 - As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
 - As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
 - As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
@@ -128,14 +127,30 @@ The technologies used across the development of this project are outlined below.
 ### Testing against user stories.
 
 - As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
-1. test
+1. Navigate to https://fransai.github.io/portfolio/
+2. Ensure you can access the home page and that a brief overview is viewable on mobile, tablet and desktop views across all major browsers.
+
 - As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
+1. Navigate to https://fransai.github.io/portfolio/
+2. Click on "Skills" - ensure you end up on the skills.html page and can see an overview of the developer skills
+3. Click on "Experience" - ensure you end up on experience.html page and can see an overview of the developers experience.
+4. Click on "Contact" - ensure you end up on contact.html and can use all of the external links to make contact with the developer.
+5. Click on "Blog" - ensure you end up on blog.html and can see all of the tech articles the developer has posted in mobile, tablet and desktop view.
+
 - As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
+1. Click on "Skills" - ensure you end up on the skills.html page and can see an overview of the developer skills. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
 - As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
-- As a recruiter I want to view some previous customer testimonials so that I can determine if this is a good developer to work with.
+1. Click on "Experience" - ensure you end up on experience.html page and can see an overview of the developers experience. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
 - As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
+1. Click on "Contact" - ensure you end up on contact.html and can use all of the external links to make contact with the developer. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
+
 - As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
+1. Click on the links within the footer of the webpage to ensure they all open on the relevant platforms in a new tab in the browser.
+
 - As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
+1. Click on "Blog" - ensure you end up on blog.html and can see all of the tech articles the developer has posted in mobile, tablet and desktop view. Test the page in mobile, tablet and desktop view with vertical and landscape orientation. Ensure to test with multiple major browsers.
 
 ### HTML and CSS Validator from W3C
 
