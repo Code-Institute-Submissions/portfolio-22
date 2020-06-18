@@ -139,6 +139,14 @@ The technologies used across the development of this project are outlined below.
 
 ## Testing
 
+### HTML and CSS Validator from W3C
+
+All HTML and CSS code passed validator checks without any issues. There is a warning however on the CSS file for "an unknown vendor extensions" for the below elements in the CSS file. This is expected behaviour and can be ignored as a "Warning" rather than a failure from the validator.
+
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+
 ### Responsiveness
 For testing purposes, I tested the responsiveness and content integrity of each one of the pages on multiple devices, both in portrait and landscope orientation:
 
@@ -167,6 +175,15 @@ For each one of the user stories and features of the webpage, I completed a numb
 - Ensure that all external links function from all html pages.
 - Ensure that all external links open in a new tab.
 
+### Browser Testing
+
+All feature testing was completed across multiple browsers, which are outlined below:
+
+- Firefox
+- Microsoft Edge
+- Google Chrome
+- Microsoft Internet Explorer
+
 ### Bugs
 
 I encountered a strange bug when I originally introduced the AOS framework into the project. Specifically, when I introduced animations in the same section, but from different directions. This caused the entire body of the page to be movable within the browser. Meaning that you could drag away the content, background and structure to see underlying whitespace behind the website content. I remediated this by keeping animation directions the same.
@@ -192,5 +209,4 @@ TBC
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
-
 - I received inspiration for this project from X
