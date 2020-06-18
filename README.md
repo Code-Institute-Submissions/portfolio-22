@@ -216,6 +216,8 @@ Ensure Git is installed on your computer
 - MacOs: https://git-scm.com/download/mac
 - Linux: https://git-scm.com/download/linux
 
+### Local Deployment
+
 1) Using Git, clone the repository. "git clone https://github.com/fransai/portfolio.git"
 2) Once the repository is cloned, navigate to the local repository on your computer.
 3) Open index.html with your preferred browser from the directory on your computer.
@@ -236,4 +238,4 @@ Ensure Git is installed on your computer
 - Pixabay was used for the background image of the entire wesite: https://pixabay.com/
 
 ### Acknowledgements
-- I received inspiration for this project from 
+- I received inspiration for this project from Stefan Mischook - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some long time professional goals of mine and his itterated in one of his videos the importance of an online portfolio.
