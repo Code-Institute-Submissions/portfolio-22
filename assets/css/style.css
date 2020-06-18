@@ -131,7 +131,7 @@ html > body {
     display: block;
     padding: .75rem 1.25rem;
     background-color: #212529;
-    border: none;
+    border: 1px solid;
 }
 
 .list-item-index-styling {
