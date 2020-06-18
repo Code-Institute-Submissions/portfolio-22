@@ -198,18 +198,41 @@ I encountered a strange bug when I originally introduced the AOS framework into 
 
 This project was deployed to Github pages using Git. It was deployed directly the Master branch. All subsequent changes can be seen within a matter of minutes post commiting directly to the master branch.
 
-To deploy this project locally, follow the below steps:
+### Steps to deploy to Github:
+
+- 1. Navigate to the repository page: https://github.com/fransai/portfolio
+- 2. Click on "Settings" in the navigation bar, next to "Insights"
+- 3. In the "Github Pages" section, click on the source drop-down menu and select "master branch"
+- 4. Wait for approximately 15 minutes for the webpage to be deployed.
+- 5. Navigate to https://fransai.github.io/portfolio/ to ensure the webpage has deployed.
+
+### To deploy this project locally, follow the below steps:
+
+#### Prerequisites
+
+Ensure Git is installed on your computer
+
+- Windows: https://git-scm.com/download/win
+- MacOs: https://git-scm.com/download/mac
+- Linux: https://git-scm.com/download/linux
 
 1) Using Git, clone the repository. "git clone https://github.com/fransai/portfolio.git"
-2) Once the repository is cloned, open the index.html file in any browser.
+2) Once the repository is cloned, navigate to the local repository on your computer.
+3) Open index.html with your preferred browser from the directory on your computer.
 
 
 ## Credits
 
-TBC
-
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+- BootStrap
+  BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content
+  
+- FontAwesome
+
+- Google Fonts
+
+- AOS
 
 ### Media
 - The photos used in this site were obtained from ...
