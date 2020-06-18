@@ -134,11 +134,11 @@ The technologies used across the development of this project are outlined below.
 ### Testing against user stories.
 
 - As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
-1. Navigate to https://fransai.github.io/portfolio/
+1. Navigate to [Francois Wilken - Portfolio](https://fransai.github.io/portfolio/index.html)
 2. Ensure you can access the home page and that a brief overview is viewable on mobile, tablet and desktop views across all major browsers.
 
 - As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
-1. Navigate to https://fransai.github.io/portfolio/
+1. Navigate to [Francois Wilken - Portfolio](https://fransai.github.io/portfolio/index.html)
 2. Click on "Skills" - ensure you end up on the skills.html page and can see an overview of the developer skills
 3. Click on "Experience" - ensure you end up on experience.html page and can see an overview of the developers experience.
 4. Click on "Contact" - ensure you end up on contact.html and can use all of the external links to make contact with the developer.
