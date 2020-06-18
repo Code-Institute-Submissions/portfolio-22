@@ -234,11 +234,11 @@ This project was deployed to Github pages using Git. It was deployed directly th
 
 ### Steps to deploy to Github:
 
-- 1. Navigate to the repository page: https://github.com/fransai/portfolio
+- 1. Navigate to the repository page: [Francois Wilken - Portfolio](https://github.com/fransai/portfolio)
 - 2. Click on "Settings" in the navigation bar, next to "Insights"
 - 3. In the "Github Pages" section, click on the source drop-down menu and select "master branch"
 - 4. Wait for approximately 15 minutes for the webpage to be deployed.
-- 5. Navigate to https://fransai.github.io/portfolio/ to ensure the webpage has deployed.
+- 5. Navigate to [Francois Wilken - Portfolio](https://fransai.github.io/portfolio/index.html) to ensure the webpage has deployed.
 
 ### To deploy this project locally, follow the below steps:
 
