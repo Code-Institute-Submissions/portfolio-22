@@ -235,8 +235,5 @@ Ensure Git is installed on your computer
 
 - Pixabay was used for the background image of the entire wesite: https://pixabay.com/
 
-### Media
-- The photos used in this site were obtained from ...
-
 ### Acknowledgements
-- I received inspiration for this project from X
+- I received inspiration for this project from 
