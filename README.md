@@ -125,6 +125,18 @@ The technologies used across the development of this project are outlined below.
 
 ## Testing
 
+### Testing against user stories.
+
+- As a recruiter I want to visit this site's home page so that I can get a brief overview and introduction of the developer.
+1. test
+- As a recruiter I want to navigate between the different pages of this site so I can further explore the developers portfolio and read more about them.
+- As a recruiter I want to view their technical / professional skills so that I can potentially hire the developer.
+- As a recruiter I want to view their previous experience so that I can determine if they have the required skills for a job.
+- As a recruiter I want to view some previous customer testimonials so that I can determine if this is a good developer to work with.
+- As a recruiter I want to view the developers contact details so that I can contact them for an open position / project idea.
+- As a recruiter I want to be able to connect with the developer on other platforms such as LinkedIn / Instagram / Github.
+- As a recruiter I want to be able to read a technical blog by the developer to get a better understanding if they are staying on top of market trends and are performing their own research.
+
 ### HTML and CSS Validator from W3C
 
 All HTML and CSS code passed validator checks without any issues. There is a warning however on the CSS file for "an unknown vendor extensions" for the below elements in the CSS file. This is expected behaviour and can be ignored as a "Warning" rather than a failure from the validator.
