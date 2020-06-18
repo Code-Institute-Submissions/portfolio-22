@@ -2,7 +2,7 @@
 
 ## Live Site
 
-A live view of the project can be seen hereL: https://fransai.github.io/portfolio/index.html
+A live view of the project can be seen hereL: [Francois Wilken - Portfolio](https://fransai.github.io/portfolio/index.html)
 
 ## Overview
 
