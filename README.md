@@ -39,29 +39,7 @@ The below user stories encapsulate the over all goals of the project and clearly
 
 Wireframes for the Project are hosted below. These outline the basic intended structure of the website, although the structure did change slighltly throughout the development process as the web page did not render in the browser as well with the wireframes specific structure.
 
-- https://fransai.github.io/portfolio/wireframes/Desktop-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Contact-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Experience-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Home-2.png
-- https://fransai.github.io/portfolio/wireframes/Desktop-Skills-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Contact-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Experience-3.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Home-2.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-1.png
-- https://fransai.github.io/portfolio/wireframes/Mobile-Skills-2.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Blog-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Contact-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Experience-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Home-1.png
-- https://fransai.github.io/portfolio/wireframes/Tablet-Skills-1.png
+https://github.com/fransai/portfolio/tree/master/wireframes
 
 ## Features
 
