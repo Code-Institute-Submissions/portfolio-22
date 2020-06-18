@@ -275,3 +275,5 @@ Ensure Git is installed on your computer
 
 ### Acknowledgements
 - I received inspiration for this project from Stefan Mischook - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some long time professional goals of mine and his itterated in one of his videos the importance of an online portfolio.
+
+- I also received enormous inspiration in terms of development practices, consistency and continous improvement from my mentor at CodeInstitute - Precious Ijege. Precious supported me dilligently throughout the entire project and helped me course correct when it was needed.
