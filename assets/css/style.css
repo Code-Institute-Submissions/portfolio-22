@@ -1,5 +1,6 @@
 /* https://fonts.google.com/specimen/Dosis?sort=popularity&sidebar.open&selection.family=Dosis:wght@200;300;400;500;600;700;800|Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800 */
-/* https://cdn.pixabay.com/photo/2017/07/01/19/48/background-2462435_960_720.jpg */
+
+/* html > body selector to implement background image - credit for background image https://pixabay.com/ */
 html > body {
     background: url("https://raw.githubusercontent.com/fransai/portfolio/master/assets/img/background.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -9,34 +10,40 @@ html > body {
     font-family: 'Dosis', sans-serif;
 }
 
-/* Nav bar styling */
+/************************** Nav bar styling ***************************/
 
+/* Remove left and right padding */
 .no-padding {
     padding-left: 0;
     padding-right: 0;
 }
 
+/* Active link color*/
 .active-nav-text {
     color: #d6b14b;
 }
 
+/* Custom logo text color */
 .logo-color {
     color: #d69f06;
 }
 
-/* Main Content */
+/*************************** Main Content ***************************/
 
+/* Custom progress class styling */
 .progress {
     background-color:#272129 ;
     border: 1px solid #f5ff8e; 
 }
 
+/* Custom progress bar styling */
 .progress-bar {
     background-color: #f5ff8e;
     opacity: 90%;
     color: #272129;
 }
 
+/* Profile photo styling */
 .profile-photo {
     max-width: 210px;
     border-radius: 50%;
@@ -44,23 +51,28 @@ html > body {
     border-style: solid;
 }
 
+/* Profile photo background styling */
 .profile-photo-bg {
     max-width: 50%;
     border-radius: 50%;
 }
 
+/* Top margin for uppermost div */
 .top-div-margin {
     margin-top: 95px;
 }
 
+/* Profile Photo bottom margin */
 .profile-margin {
     margin-bottom: 30px;
 }
 
+/* Bottom most div margin */
 .bottom-div-margin {
     margin-bottom: 75px;
 }
 
+/* Custom bootstrap card styling */
 .card {
     position: relative;
     display: -ms-flexbox;
@@ -77,12 +89,14 @@ html > body {
     margin-bottom: 20px;
 }
 
+/* Custom bootstrap card body styling */
 .card-body {
     min-width: 75%;
     max-width: 75%;
     align-self: center;
 }
 
+/* Styling for card body for skills page */
 .card-body-skills {
     min-width: 75%;
     max-width: 75%;
@@ -91,7 +105,7 @@ html > body {
     opacity: 80%;
 }
 
-
+/* Margin below H3 element */
 .heading-three-seperator {
     color: #752702;
     margin-bottom: 40px;
@@ -102,27 +116,33 @@ html > body {
     margin-bottom: 40px;
 }
 
+/* Margin below H4 element */
 .skills-card-padding {
     padding-top: 15px;
     padding-bottom: 15px;
     margin-bottom: 40px;
 }
 
+/* General text color for body of html */
 .main-content-section {
     color: #f0e6cd;
 }
 
+/* Custom stling for <hr> tag */
 .hr-seperater-main {
     border: solid rgba(148, 45, 4, 0.3);
     max-width: 50%;
     margin-top: 55px;
 }
+
+/* Custom stling for <hr> tag on experience page*/
 .hr-seperater-main-exp {
     border: solid #eebd52;
     max-width: 50%;
     margin-top: 55px;
 }
 
+/* Custom styling for <li> of <ul> tags */
 .list-group-item {
     position: relative;
     display: block;
@@ -131,20 +151,20 @@ html > body {
     border: 1px solid;
 }
 
-.list-item-index-styling {
-    margin-top: 0.0rem;
-}
-
+/* Custom H6 styling */
 h6 {
     font-family: 'Dosis', sans-serif;
 }
 
+/* blog article content padding */
 .article-padding {
     padding-left: 15px;
     padding-right: 15px;
 }
 
-/* Footer Styling */
+/*************************** Footer Styling ***************************/
+
+
 .icon-style {
     color: #edcf7b;
     font-size: 30px;
@@ -159,6 +179,7 @@ h6 {
     padding-bottom: 10px;
 }
 
+/* Hover animation on icons */
 i:hover {
     color: #d69f06;
 }
