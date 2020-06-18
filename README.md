@@ -261,15 +261,17 @@ Ensure Git is installed on your computer
 
 ### Content
 
-- BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content. Responsiveness of the project was achieved with BootStrap v4.5 classes and grid layout structures. https://getbootstrap.com/docs/4.5/getting-started/introduction/
-  
-- FontAwesome was used for all of the icons on the project and are outlined within the HTML pages source code to attribute credit to FontAwesome. https://fontawesome.com/
+- BootStrap was used to build the multiple sections of this project with some custom styling and HTML to tailor the structure and      styling of the content. Responsiveness of the project was achieved with BootStrap v4.5 classes and grid layout structures.
+[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-- Google Fonts was used for the fonts across the entire project (Dosis Font). Google fonts is also credited in the source code of all of the HTML pages. https://fonts.google.com/
+- FontAwesome was used for all of the icons on the project and are outlined within the HTML pages source code to attribute credit to 
+[FontAwesome](https://fontawesome.com/)
 
-- AOS was used for all of the elemental animations on the project. AOS is an open source JS and CSS library for styling the movements of HTML elements on a webpage. https://michalsnik.github.io/aos/
+- Google Fonts was used for the fonts across the entire project (Dosis Font). Google fonts is also credited in the source code of all of the HTML pages. [Google Fonts](https://fonts.google.com/)
 
-- Pixabay was used for the background image of the entire wesite: https://pixabay.com/
+- AOS was used for all of the elemental animations on the project. AOS is an open source JS and CSS library for styling the movements of HTML elements on a webpage. [AOS - Animate on Scroll](https://michalsnik.github.io/aos/)
+
+- Pixabay was used for the background image of the entire wesite: [Pixabay](https://pixabay.com/)
 
 ### Acknowledgements
 - I received inspiration for this project from Stefan Mischook - a Freelance Software Developer that has over 20 years of experience in freelance software development. Stefan has been somewhat of an "online inspiration" for some long time professional goals of mine and his itterated in one of his videos the importance of an online portfolio.
